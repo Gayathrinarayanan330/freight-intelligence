@@ -1,4 +1,4 @@
-# Freight Intelligence & Vessel Chartering Platform (SIH26006 Demo)
+# Freight Intelligence & Vessel Chartering Platform
 
 Self-contained React demo of the freight forecasting and vessel-chartering
 decision-support workflow. No backend required — all engines (forecast,
@@ -28,7 +28,7 @@ npm run preview
 ## Project structure
 
 ```
-freight-demo/
+freight-intelligence/
 ├── index.html
 ├── package.json
 ├── vite.config.js
